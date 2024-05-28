@@ -111,3 +111,13 @@ https://github.com/googleapis for generating linkable client libraries.
 It is difficult to generate Go gRPC source code from this repository,
 since Go has different directory structure.
 Please use [this repository](https://github.com/google/go-genproto) instead.
+
+https://cloud.google.com/bigquery/docs/reference/rest/?apix=true#service:-bigquery.googleapis.com
+
+https://firebase.google.com/docs/auth/where-to-start#custom-auth
+
+[https](https://github.com/foundersandcoders/nazareth-recipes/blob/879c8ea8cbf7b3aab21ddfe0bac103b564f74be9/recipes/main/courgette_arabic_cheese_fritters.md#L9)
+
+gdpr@linuxfoundation.org
+
+https://creativecommons.org/licenses/by/4.0/
